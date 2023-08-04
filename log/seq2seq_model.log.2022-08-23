@@ -1,0 +1,4 @@
+2022-08-23 14:08:59|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-08-23 14:08:59|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-08-23 14:08:59|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:6381 | memory.total:8192 | power.draw:13 | power.limit:1 | specified:True
+2022-08-23 14:09:01|INFO|train.py[:73]|Loading model from ./alphamind

@@ -1,0 +1,113 @@
+2022-07-25 09:32:40|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 09:36:33|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:01:09|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:03:34|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:03:44|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:03:45|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:04:47|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:04:54|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:04:55|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:06:18|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:06:34|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:06:35|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:07:33|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:07:49|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:07:54|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:07:55|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:09:11|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:09:55|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:10:14|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:10:28|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:10:31|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:11:17|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:11:21|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:11:21|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:15:27|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:15:28|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:16:34|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:16:34|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:19:12|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:19:38|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:19:43|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:19:44|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 10:43:07|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 10:43:52|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 10:43:54|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 14:45:28|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 14:45:59|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 14:46:00|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 14:46:43|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 14:46:49|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 14:46:50|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 15:53:54|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 15:53:59|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 15:54:00|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 15:55:14|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 15:55:23|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 15:55:24|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 15:56:22|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 15:56:22|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 15:57:21|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 15:57:21|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 15:57:43|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 16:04:59|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 16:05:03|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 16:05:04|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 16:05:35|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 16:05:35|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 16:06:00|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 16:06:05|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 16:06:06|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 16:08:23|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 16:08:27|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 16:08:27|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 16:10:08|INFO|service.py[:29]|Loading model from ./alphamind
+2022-07-25 16:10:12|INFO|service.py[:92]|=======Receipt of the request=======
+2022-07-25 16:10:13|INFO|service.py[:105]|输入图片的形状为(1, 512, 512, 1)
+2022-07-25 16:11:15|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:11:15|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:11:15|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-25 16:11:18|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:12:18|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:12:18|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:12:18|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-25 16:12:22|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:13:22|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:13:22|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:13:22|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-07-25 16:14:10|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:14:10|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:14:10|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-07-25 16:14:13|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:15:04|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:15:04|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:15:04|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-25 16:15:07|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:23:32|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:23:32|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:23:32|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-25 16:23:34|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:24:08|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:24:08|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:24:08|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-07-25 16:24:18|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:29:04|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:29:04|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:29:04|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-25 16:37:44|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:38:28|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:38:28|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:38:28|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-07-25 16:38:32|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:39:40|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:39:40|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:39:40|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:30 | power.limit:1 | specified:True
+2022-07-25 16:39:41|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:41:24|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:41:24|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:41:24|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-25 16:41:25|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-25 16:46:12|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-25 16:46:12|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-25 16:46:12|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-25 16:46:13|INFO|train.py[:73]|Loading model from ./alphamind

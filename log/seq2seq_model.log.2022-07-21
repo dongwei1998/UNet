@@ -1,0 +1,603 @@
+2022-07-21 09:27:43|INFO|train.py[:78]|Loading model from ./alphamind
+2022-07-21 09:33:05|INFO|train.py[:79]|Loading model from ./alphamind
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block1】层输出:(1, 568, 568, 64)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block2】层输出:(1, 280, 280, 128)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block3】层输出:(1, 136, 136, 256)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block5】层输出:(1, 28, 28, 1024)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block6】层输出:(1, 52, 52, 512)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block7】层输出:(1, 100, 100, 256)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block8】层输出:(1, 196, 196, 128)
+2022-07-21 09:37:19|DEBUG|train.py[:60]|【block9】层输出:(1, 388, 388, 64)
+2022-07-21 09:37:19|INFO|train.py[:81]|Loading model from ./alphamind
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block1】层输出:(1, 568, 568, 64)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block2】层输出:(1, 280, 280, 128)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block3】层输出:(1, 136, 136, 256)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block5】层输出:(1, 28, 28, 1024)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block6】层输出:(1, 52, 52, 512)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block7】层输出:(1, 100, 100, 256)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block8】层输出:(1, 196, 196, 128)
+2022-07-21 09:41:34|DEBUG|train.py[:60]|【block9】层输出:(1, 388, 388, 2)
+2022-07-21 09:41:34|INFO|train.py[:82]|Loading model from ./alphamind
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block1】层输出:(1, 568, 568, 64)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block2】层输出:(1, 280, 280, 128)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block3】层输出:(1, 136, 136, 256)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block5】层输出:(1, 28, 28, 1024)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block6】层输出:(1, 52, 52, 512)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block7】层输出:(1, 100, 100, 256)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block8】层输出:(1, 196, 196, 128)
+2022-07-21 09:43:49|DEBUG|train.py[:62]|【block9】层输出:(1, 388, 388, 2)
+2022-07-21 09:43:49|INFO|train.py[:84]|Loading model from ./alphamind
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block1】层输出:(1, 568, 568, 64)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block2】层输出:(1, 280, 280, 128)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block3】层输出:(1, 136, 136, 256)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block5】层输出:(1, 28, 28, 1024)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block6】层输出:(1, 52, 52, 512)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block7】层输出:(1, 100, 100, 256)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block8】层输出:(1, 196, 196, 128)
+2022-07-21 10:36:09|DEBUG|UNet.py[:261]|【block9】层输出:(1, 388, 388, 2)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block1】层输出:(1, 568, 568, 64)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block2】层输出:(1, 280, 280, 128)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block3】层输出:(1, 136, 136, 256)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block5】层输出:(1, 28, 28, 1024)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block6】层输出:(1, 52, 52, 512)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block7】层输出:(1, 100, 100, 256)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block8】层输出:(1, 196, 196, 128)
+2022-07-21 11:06:06|DEBUG|UNet.py[:261]|【block9】层输出:(1, 388, 388, 2)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block1】层输出:(1, 568, 568, 64)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block2】层输出:(1, 280, 280, 128)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block3】层输出:(1, 136, 136, 256)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block5】层输出:(1, 28, 28, 1024)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block6】层输出:(1, 52, 52, 512)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block7】层输出:(1, 100, 100, 256)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block8】层输出:(1, 196, 196, 128)
+2022-07-21 11:07:03|DEBUG|UNet.py[:261]|【block9】层输出:(1, 388, 388, 2)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block1】层输出:(1, 568, 568, 64)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block2】层输出:(1, 280, 280, 128)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block3】层输出:(1, 136, 136, 256)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block5】层输出:(1, 28, 28, 1024)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block6】层输出:(1, 52, 52, 512)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block7】层输出:(1, 100, 100, 256)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block8】层输出:(1, 196, 196, 128)
+2022-07-21 11:08:11|DEBUG|UNet.py[:260]|【block9】层输出:(1, 388, 388, 2)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block1】层输出:(1, 252, 252, 64)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block2】层输出:(1, 122, 122, 128)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block3】层输出:(1, 57, 57, 256)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block4】层输出:(1, 24, 24, 512)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block5】层输出:(1, 8, 8, 1024)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block6】层输出:(1, 12, 12, 512)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block7】层输出:(1, 20, 20, 256)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block8】层输出:(1, 36, 36, 128)
+2022-07-21 11:21:48|DEBUG|UNet.py[:260]|【block9】层输出:(1, 68, 68, 2)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 11:25:35|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 11:27:16|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 11:29:02|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 11:31:55|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 13:56:00|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 13:57:39|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:14:24|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:21:34|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:23:32|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:24:08|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:25:49|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:33:44|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:33:45|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:33:46|INFO|train.py[:99]|Loading model from ./alphamind
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:34:17|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:34:18|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:34:18|INFO|train.py[:100]|Loading model from ./alphamind
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:36:34|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:36:35|DEBUG|UNet.py[:260]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:36:35|INFO|train.py[:100]|Loading model from ./alphamind
+2022-07-21 14:41:02|INFO|train.py[:77]|Loading model from ./alphamind
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block1】层输出:(1, 256, 256, 64)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block2】层输出:(1, 128, 128, 128)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block3】层输出:(1, 64, 64, 256)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block4】层输出:(1, 32, 32, 512)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block5】层输出:(1, 16, 16, 1024)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block6】层输出:(1, 32, 32, 512)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block7】层输出:(1, 64, 64, 256)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block8】层输出:(1, 128, 128, 128)
+2022-07-21 14:41:06|DEBUG|UNet.py[:217]|【block9】层输出:(1, 256, 256, 2)
+2022-07-21 14:41:41|INFO|train.py[:77]|Loading model from ./alphamind
+2022-07-21 14:42:35|INFO|train.py[:77]|Loading model from ./alphamind
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:42:39|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:42:41|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:45:19|INFO|train.py[:77]|Loading model from ./alphamind
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:45:24|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:46:26|INFO|train.py[:77]|Loading model from ./alphamind
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:46:31|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:46:33|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:52:38|INFO|train.py[:74]|Loading model from ./alphamind
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:52:43|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:52:45|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:53:23|INFO|train.py[:74]|Loading model from ./alphamind
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:53:28|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:54:04|INFO|train.py[:74]|Loading model from ./alphamind
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:54:09|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 14:54:11|DEBUG|UNet.py[:217]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 15:13:38|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 15:13:45|DEBUG|train.py[:85]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 15:13:45|INFO|train.py[:91]|epoch 1, batch 1, loss:90656.1641
+2022-07-21 15:13:45|INFO|train.py[:103]|epoch 1, batch 1, loss:90656.1641
+2022-07-21 15:13:45|INFO|train.py[:91]|epoch 2, batch 2, loss:90483.5938
+2022-07-21 15:13:46|INFO|train.py[:97]|epoch 2, save model at ./alphamind
+2022-07-21 15:13:46|INFO|train.py[:103]|epoch 2, batch 2, loss:90483.5938
+2022-07-21 15:13:46|INFO|train.py[:91]|epoch 3, batch 3, loss:90426.6953
+2022-07-21 15:13:46|INFO|train.py[:103]|epoch 3, batch 3, loss:90426.6953
+2022-07-21 15:13:46|INFO|train.py[:91]|epoch 4, batch 4, loss:90408.8906
+2022-07-21 15:13:47|INFO|train.py[:97]|epoch 4, save model at ./alphamind
+2022-07-21 15:13:47|INFO|train.py[:103]|epoch 4, batch 4, loss:90408.8906
+2022-07-21 15:13:47|INFO|train.py[:91]|epoch 5, batch 5, loss:90530.2109
+2022-07-21 15:13:47|INFO|train.py[:103]|epoch 5, batch 5, loss:90530.2109
+2022-07-21 15:13:48|INFO|train.py[:91]|epoch 6, batch 6, loss:90366.3750
+2022-07-21 15:13:48|INFO|train.py[:97]|epoch 6, save model at ./alphamind
+2022-07-21 15:13:48|INFO|train.py[:103]|epoch 6, batch 6, loss:90366.3750
+2022-07-21 15:13:49|INFO|train.py[:91]|epoch 7, batch 7, loss:90216.6016
+2022-07-21 15:13:49|INFO|train.py[:103]|epoch 7, batch 7, loss:90216.6016
+2022-07-21 15:13:49|INFO|train.py[:91]|epoch 8, batch 8, loss:90232.5391
+2022-07-21 15:13:50|INFO|train.py[:97]|epoch 8, save model at ./alphamind
+2022-07-21 15:13:50|INFO|train.py[:103]|epoch 8, batch 8, loss:90232.5391
+2022-07-21 15:13:50|INFO|train.py[:91]|epoch 9, batch 9, loss:90137.6719
+2022-07-21 15:13:50|INFO|train.py[:103]|epoch 9, batch 9, loss:90137.6719
+2022-07-21 15:13:50|INFO|train.py[:91]|epoch 10, batch 10, loss:89869.4922
+2022-07-21 15:13:55|INFO|train.py[:97]|epoch 10, save model at ./alphamind
+2022-07-21 15:13:55|INFO|train.py[:103]|epoch 10, batch 10, loss:89869.4922
+2022-07-21 15:14:31|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block1】层输出:(4, 256, 256, 64)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block2】层输出:(4, 128, 128, 128)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block3】层输出:(4, 64, 64, 256)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block4】层输出:(4, 32, 32, 512)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block5】层输出:(4, 16, 16, 1024)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block6】层输出:(4, 32, 32, 512)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block7】层输出:(4, 64, 64, 256)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block8】层输出:(4, 128, 128, 128)
+2022-07-21 15:14:38|DEBUG|train.py[:85]|【block9】层输出:(4, 256, 256, 2)
+2022-07-21 15:14:38|INFO|train.py[:89]|epoch 1, batch 1, loss:89756.2812
+2022-07-21 15:14:38|INFO|train.py[:101]|epoch 1, batch 1, loss:89756.2812
+2022-07-21 15:14:38|INFO|train.py[:89]|epoch 2, batch 2, loss:90085.5938
+2022-07-21 15:14:38|INFO|train.py[:101]|epoch 2, batch 2, loss:90085.5938
+2022-07-21 15:14:38|INFO|train.py[:89]|epoch 3, batch 3, loss:89665.9844
+2022-07-21 15:14:38|INFO|train.py[:101]|epoch 3, batch 3, loss:89665.9844
+2022-07-21 15:14:38|INFO|train.py[:89]|epoch 4, batch 4, loss:89917.0312
+2022-07-21 15:14:38|INFO|train.py[:101]|epoch 4, batch 4, loss:89917.0312
+2022-07-21 15:14:38|INFO|train.py[:89]|epoch 5, batch 5, loss:89672.0781
+2022-07-21 15:14:38|INFO|train.py[:101]|epoch 5, batch 5, loss:89672.0781
+2022-07-21 15:14:38|INFO|train.py[:89]|epoch 6, batch 6, loss:89666.4062
+2022-07-21 15:14:38|INFO|train.py[:101]|epoch 6, batch 6, loss:89666.4062
+2022-07-21 15:14:39|INFO|train.py[:89]|epoch 7, batch 7, loss:89616.0000
+2022-07-21 15:14:39|INFO|train.py[:101]|epoch 7, batch 7, loss:89616.0000
+2022-07-21 15:14:39|INFO|train.py[:89]|epoch 8, batch 8, loss:89557.2969
+2022-07-21 15:14:39|INFO|train.py[:101]|epoch 8, batch 8, loss:89557.2969
+2022-07-21 15:14:39|INFO|train.py[:89]|epoch 9, batch 9, loss:89821.6719
+2022-07-21 15:14:39|INFO|train.py[:101]|epoch 9, batch 9, loss:89821.6719
+2022-07-21 15:14:39|INFO|train.py[:89]|epoch 10, batch 10, loss:89561.9297
+2022-07-21 15:14:39|INFO|train.py[:101]|epoch 10, batch 10, loss:89561.9297
+2022-07-21 16:57:27|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 16:59:19|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 16:59:47|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 17:04:29|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 17:17:22|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 17:25:22|INFO|train.py[:72]|Loading model from ./alphamind
+2022-07-21 17:29:31|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 17:29:52|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 17:29:52|INFO|data_help.py[:121]|数据读入完成，数据形状为:(8, 256, 256)-(8, 256, 256)
+2022-07-21 17:31:31|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 17:31:31|INFO|data_help.py[:121]|数据读入完成，数据形状为:(8, 256, 256)-(8, 256, 256)
+2022-07-21 17:50:14|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 17:50:14|INFO|data_help.py[:121]|数据读入完成，数据形状为:(8, 256, 256, 3)-(8, 256, 256, 3)
+2022-07-21 17:53:20|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:10:15|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:11:45|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:12:44|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:13:13|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:13:57|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:14:34|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:14:35|INFO|data_help.py[:121]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 256, 256, 3)
+2022-07-21 18:16:54|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:16:55|INFO|data_help.py[:121]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 256, 256, 3)
+2022-07-21 18:17:46|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:17:47|INFO|data_help.py[:121]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 512, 512, 3)
+2022-07-21 18:42:41|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:42:42|INFO|data_help.py[:44]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 512, 512)
+2022-07-21 18:47:03|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:47:04|INFO|data_help.py[:44]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 512, 512)
+2022-07-21 18:47:46|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:47:48|INFO|data_help.py[:44]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 512, 512)
+2022-07-21 18:49:55|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:52:06|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:52:36|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:52:55|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:52:56|INFO|data_help.py[:44]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 512, 512)
+2022-07-21 18:53:49|INFO|train.py[:71]|Loading model from ./alphamind
+2022-07-21 18:53:50|INFO|data_help.py[:44]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 512, 512)
+2022-07-21 18:55:14|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 18:55:14|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 18:55:14|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-21 18:55:15|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-21 18:55:17|INFO|data_help.py[:44]|数据读入完成，数据形状为:(8, 512, 512, 1)-(8, 512, 512)
+2022-07-21 18:55:59|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 18:55:59|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 18:55:59|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-21 18:56:00|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-21 18:56:01|INFO|data_help.py[:44]|数据读入完成，数据形状为:(2, 512, 512, 1)-(2, 512, 512)
+2022-07-21 18:56:47|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 18:56:47|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 18:56:47|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-07-21 18:56:48|INFO|train.py[:73]|Loading model from ./alphamind
+2022-07-21 18:56:49|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:00:20|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 19:00:20|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 19:00:20|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-21 19:00:20|INFO|train.py[:69]|The new training model from ./alphamind
+2022-07-21 19:00:22|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:02:34|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 19:02:34|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 19:02:34|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-07-21 19:02:35|INFO|train.py[:69]|The new training model from ./alphamind
+2022-07-21 19:02:36|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:04:08|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 19:04:08|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 19:04:08|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-21 19:04:08|INFO|train.py[:69]|The new training model from ./alphamind
+2022-07-21 19:05:04|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 19:05:04|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 19:05:04|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:32 | power.limit:1 | specified:True
+2022-07-21 19:05:05|INFO|train.py[:69]|The new training model from ./alphamind
+2022-07-21 19:05:05|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block1】层输出:(1, 512, 512, 64)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block2】层输出:(1, 256, 256, 128)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block3】层输出:(1, 128, 128, 256)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block4】层输出:(1, 64, 64, 512)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block5】层输出:(1, 32, 32, 1024)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block6】层输出:(1, 64, 64, 512)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block7】层输出:(1, 128, 128, 256)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block8】层输出:(1, 256, 256, 128)
+2022-07-21 19:05:11|DEBUG|train.py[:87]|【block9】层输出:(1, 512, 512, 2)
+2022-07-21 19:05:11|INFO|train.py[:90]|epoch 1, batch 1, loss:169158.7188
+2022-07-21 19:05:11|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:11|INFO|train.py[:90]|epoch 1, batch 2, loss:141567.4844
+2022-07-21 19:05:11|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:12|INFO|train.py[:90]|epoch 1, batch 3, loss:139901.5938
+2022-07-21 19:05:12|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:12|INFO|train.py[:90]|epoch 1, batch 4, loss:140084.6875
+2022-07-21 19:05:12|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:12|INFO|train.py[:90]|epoch 1, batch 5, loss:135822.0469
+2022-07-21 19:05:12|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:12|INFO|train.py[:90]|epoch 1, batch 6, loss:144179.4062
+2022-07-21 19:05:12|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:12|INFO|train.py[:90]|epoch 1, batch 7, loss:148110.2656
+2022-07-21 19:05:12|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:13|INFO|train.py[:90]|epoch 1, batch 8, loss:144998.1094
+2022-07-21 19:05:13|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:13|INFO|train.py[:90]|epoch 1, batch 9, loss:145407.7500
+2022-07-21 19:05:13|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:13|INFO|train.py[:90]|epoch 1, batch 10, loss:141323.5469
+2022-07-21 19:05:13|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:13|INFO|train.py[:90]|epoch 1, batch 11, loss:146232.4062
+2022-07-21 19:05:13|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:13|INFO|train.py[:90]|epoch 1, batch 12, loss:141469.8281
+2022-07-21 19:05:13|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:14|INFO|train.py[:90]|epoch 1, batch 13, loss:137179.4844
+2022-07-21 19:05:14|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:14|INFO|train.py[:90]|epoch 1, batch 14, loss:140565.5625
+2022-07-21 19:05:14|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:14|INFO|train.py[:90]|epoch 1, batch 15, loss:144975.2812
+2022-07-21 19:05:14|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:14|INFO|train.py[:90]|epoch 1, batch 16, loss:144981.7969
+2022-07-21 19:05:14|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:14|INFO|train.py[:90]|epoch 1, batch 17, loss:145783.0781
+2022-07-21 19:05:14|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:15|INFO|train.py[:90]|epoch 1, batch 18, loss:148453.5938
+2022-07-21 19:05:15|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:15|INFO|train.py[:90]|epoch 1, batch 19, loss:145808.5312
+2022-07-21 19:05:15|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:15|INFO|train.py[:90]|epoch 1, batch 20, loss:144176.6250
+2022-07-21 19:05:15|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:15|INFO|train.py[:90]|epoch 1, batch 21, loss:142184.5000
+2022-07-21 19:05:15|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:15|INFO|train.py[:90]|epoch 1, batch 22, loss:144851.9375
+2022-07-21 19:05:15|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:16|INFO|train.py[:90]|epoch 1, batch 23, loss:151380.3750
+2022-07-21 19:05:16|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:16|INFO|train.py[:90]|epoch 1, batch 24, loss:137279.3594
+2022-07-21 19:05:16|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:16|INFO|train.py[:90]|epoch 1, batch 25, loss:133878.2812
+2022-07-21 19:05:16|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:16|INFO|train.py[:90]|epoch 1, batch 26, loss:132741.9375
+2022-07-21 19:05:16|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:16|INFO|train.py[:90]|epoch 1, batch 27, loss:138066.6875
+2022-07-21 19:05:16|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:16|INFO|train.py[:90]|epoch 1, batch 28, loss:137830.5000
+2022-07-21 19:05:17|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:17|INFO|train.py[:90]|epoch 1, batch 29, loss:138624.7812
+2022-07-21 19:05:17|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:17|INFO|train.py[:90]|epoch 1, batch 30, loss:141525.2344
+2022-07-21 19:05:17|INFO|train.py[:101]|epoch 1, batch 30, loss:142951.4464
+2022-07-21 19:05:17|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:17|INFO|train.py[:90]|epoch 2, batch 31, loss:141973.0000
+2022-07-21 19:05:17|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:17|INFO|train.py[:90]|epoch 2, batch 32, loss:140487.5625
+2022-07-21 19:05:17|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:17|INFO|train.py[:90]|epoch 2, batch 33, loss:139180.5625
+2022-07-21 19:05:18|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:18|INFO|train.py[:90]|epoch 2, batch 34, loss:139683.9062
+2022-07-21 19:05:18|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:18|INFO|train.py[:90]|epoch 2, batch 35, loss:135514.2656
+2022-07-21 19:05:18|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:18|INFO|train.py[:90]|epoch 2, batch 36, loss:143888.1875
+2022-07-21 19:05:18|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:18|INFO|train.py[:90]|epoch 2, batch 37, loss:147813.3281
+2022-07-21 19:05:18|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:18|INFO|train.py[:90]|epoch 2, batch 38, loss:144798.6250
+2022-07-21 19:05:18|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:19|INFO|train.py[:90]|epoch 2, batch 39, loss:145244.5781
+2022-07-21 19:05:19|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:19|INFO|train.py[:90]|epoch 2, batch 40, loss:141165.7188
+2022-07-21 19:05:19|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:19|INFO|train.py[:90]|epoch 2, batch 41, loss:146090.4688
+2022-07-21 19:05:19|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:19|INFO|train.py[:90]|epoch 2, batch 42, loss:141356.6562
+2022-07-21 19:05:19|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:19|INFO|train.py[:90]|epoch 2, batch 43, loss:137037.3750
+2022-07-21 19:05:19|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:20|INFO|train.py[:90]|epoch 2, batch 44, loss:140442.7969
+2022-07-21 19:05:20|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:20|INFO|train.py[:90]|epoch 2, batch 45, loss:144866.2031
+2022-07-21 19:05:20|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:20|INFO|train.py[:90]|epoch 2, batch 46, loss:144903.0781
+2022-07-21 19:05:20|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:20|INFO|train.py[:90]|epoch 2, batch 47, loss:145714.7031
+2022-07-21 19:05:20|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:20|INFO|train.py[:90]|epoch 2, batch 48, loss:148389.7188
+2022-07-21 19:05:20|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:21|INFO|train.py[:90]|epoch 2, batch 49, loss:145740.1562
+2022-07-21 19:05:21|INFO|data_help.py[:44]|数据读入完成，数据形状为:(1, 512, 512, 1)-(1, 512, 512)
+2022-07-21 19:05:21|INFO|train.py[:90]|epoch 2, batch 50, loss:144106.5625
+2022-07-21 19:05:21|INFO|train.py[:96]|epoch 2, save model at ./alphamind
+2022-07-21 19:06:44|INFO|gpu_git.py[:167]|Given an unaviliable mode,will be chosen by memory
+2022-07-21 19:06:44|INFO|gpu_git.py[:118]|Sorted by free memory rate
+2022-07-21 19:06:44|INFO|gpu_git.py[:171]|Using GPU 0:index:0 | gpu_name:NVIDIA GeForce RTX 3070 Laptop GPU | memory.free:8044 | memory.total:8192 | power.draw:31 | power.limit:1 | specified:True
+2022-07-21 19:06:45|INFO|train.py[:69]|The new training model from ./alphamind
+2022-07-21 19:06:45|INFO|data_help.py[:44]|数据读入完成，数据形状为:(4, 512, 512, 1)-(4, 512, 512)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block1】层输出:(4, 512, 512, 64)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block2】层输出:(4, 256, 256, 128)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block3】层输出:(4, 128, 128, 256)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block4】层输出:(4, 64, 64, 512)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block5】层输出:(4, 32, 32, 1024)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block6】层输出:(4, 64, 64, 512)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block7】层输出:(4, 128, 128, 256)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block8】层输出:(4, 256, 256, 128)
+2022-07-21 19:06:54|DEBUG|train.py[:87]|【block9】层输出:(4, 512, 512, 2)
+2022-07-21 19:06:54|INFO|train.py[:90]|epoch 1, batch 1, loss:522441.8438
+2022-07-21 19:06:55|INFO|data_help.py[:44]|数据读入完成，数据形状为:(4, 512, 512, 1)-(4, 512, 512)

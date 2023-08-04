@@ -1,0 +1,9 @@
+easydict==1.9
+Flask==2.1.0
+numpy==1.19.5
+opencv_python==4.5.3.56
+python-dotenv==0.20.0
+requests==2.25.1
+tensorflow==2.9.1
+tensorflow_gpu==2.5.0
+tqdm==4.62.3
